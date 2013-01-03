@@ -1,0 +1,14 @@
+Fantansy MMORPG based on chinese silk story.
+
+agentd - Agent server daemon.
+blowfish - Blowfish encryption library.
+database - Database scripts and layout.
+doc - Project documentation.
+downloadd - Download server daemon.
+gatewayd - Gateway server daemon.
+globald - Global manager server daemon.
+gamed - Game Shard server daemon.
+libnet - Base network library.
+libauth - Phoenix packet security library.
+certd - Certification daemon
+named - Name Discovery Daemon
