@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 2.6)
 
 project(ZELOSONLINE)
 
+INCLUDE(${CMAKE_CURRENT_SOURCE_DIR}/CMakeModules/FindMySQL.cmake)
+
 add_subdirectory (blowfish)
 add_subdirectory (libpacket)
 add_subdirectory (libauth)
